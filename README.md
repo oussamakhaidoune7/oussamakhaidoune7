@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oussamakhaidoune7
+- 👋 Hi, I’m @Oussama Khaidoune.
 - 👀 I’m interested in exploring new frontend technologies and building intuitive user interfaces.
 - 🌱 I’m currently learning php, and performance optimization in web development.
 - 💞️ I’m looking to collaborate on open-source projects, innovative web applications, or anything related to frontend development.
