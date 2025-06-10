@@ -2,7 +2,7 @@
 - 👀 I’m interested in exploring new frontend technologies and building intuitive user interfaces.
 - 🌱 I’m currently learning php, and performance optimization in web development.
 - 💞️ I’m looking to collaborate on open-source projects, innovative web applications, or anything related to frontend development.
-- 📫 How to reach me You can reach me via email at [oussamakhaidoune74@gmail.com].
+- 📫 How to reach me You can reach me via email at [oussamakhaidoune09@gmail.com].
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact:  I love solving Rubik's cubes.
 
